@@ -11,7 +11,7 @@
   Como iniciante, ainda tenho um caminho para percorrer para ser considerado um Dev de fato. O enfoque é seguir o plano de ensino proposto e o aprendizado das tecnologias Python, SQL e Django.
 
   <picture>
- <img src="https://img.shields.io/badge/-Python%20-%20blue?style=flat&logo=python&logoColor=white&logoSize=auto)">
+ <img src="https://img.shields.io/badge/-Python%20-%20blue?style=flat&logo=python&logoColor=white&logoSize=auto">
 </picture>
 
   <picture>
