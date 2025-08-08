@@ -9,19 +9,21 @@
 
 # Aprendizado
   Como iniciante, ainda tenho um caminho para percorrer para ser considerado um Dev de fato. O enfoque é seguir o plano de ensino proposto e o aprendizado das tecnologias Python, SQL e Django.
-  
+
   <picture>
-  <img src= "https://img.shields.io/badge/-%20Django%20%20-%20blue?style=flat&logo=django&logoSize=auto">
-  </picture>
+ <img src="https://img.shields.io/badge/-Python%20-%20blue?style=flat&logo=python&logoColor=white&logoSize=auto)">
+</picture>
+
   <picture>
-  <img src= "https://img.shields.io/badge/-Python%20-%20blue?style=flat&logo=python&logoColor=white&logoSize=auto">
-  </picture>
-  <picture>
-  <img src= "https://img.shields.io/badge/-%20Django%20%20-%20blue?style=flat&logo=django&logoSize=auto](https://img.shields.io/badge/-%20MySQL-blue?style=flat&logo=mysql&logoColor=white&logoSize=auto">
-  </picture>
+ <img src="https://img.shields.io/badge/-%20MySQL%20-%20blue?style=flat&logo=mysql&logoColor=white&logoSize=auto">
+</picture>
+
+ <picture>
+ <img src="https://img.shields.io/badge/-%20Django%20%20-%20blue?style=flat&logo=django&logoSize=auto">
+</picture>
 
 # Enfoque
-  Além das tecnologias, como a própria Cruzeiro do Sul propõe, busco o desenvolvimento pessoal e profissional. Esses aspectos são de suma importância para a carreira e para a vida, não se esquecendo de princípios fundamentais como éticos, de inclusão e sustentabilide.
+  Além das tecnologias busco o desenvolvimento pessoal e profissional. Esses aspectos são de suma importância para a carreira e para a vida, não se esquecendo de princípios fundamentais como éticos, de inclusão e sustentabilide.
     
 
 <!--
