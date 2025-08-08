@@ -1,5 +1,5 @@
 <picture>
- <img src="https://github.com/vbsilva-cs/design-profissional/blob/main/Logo_Cruzeiro%20do%20sul%20virtual_editado_5.jpg?raw=true">
+ <img src="https://github.com/vbsilva-cs/design-profissional/blob/main/Logo_Cruzeiro%20do%20sul%20virtual_editado_6.jpg?raw=true">
 </picture>
 <!-- Ajustar banner -->
 
