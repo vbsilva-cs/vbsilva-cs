@@ -11,16 +11,17 @@
   Como iniciante, ainda tenho um caminho para percorrer para ser considerado um Dev de fato. O enfoque é seguir o plano de ensino proposto e o aprendizado das tecnologias Python, SQL e Django.
 
   <picture>
- <img src="https://img.shields.io/badge/-Python%20-%20blue?style=flat&logo=python&logoColor=white&logoSize=auto">
+ <img src="https://raw.githubusercontent.com/vbsilva-cs/design-profissional/b05214930b3aaf30af3e886f253b1f2e6028fa9d/-Python%20-%20blue.svg?token=BVOQEGLZV5EHYB5SL76W45LISZT36">
 </picture>
 
   <picture>
- <img src="https://img.shields.io/badge/-%20MySQL%20-%20blue?style=flat&logo=mysql&logoColor=white&logoSize=auto">
+ <img src="https://raw.githubusercontent.com/vbsilva-cs/design-profissional/b05214930b3aaf30af3e886f253b1f2e6028fa9d/-%20MySQL%20-%20blue.svg?token=BVOQEGOB3V5GGUNWZRWPXV3ISZTKI">
 </picture>
 
- <picture>
- <img src="https://img.shields.io/badge/-%20Django%20%20-%20blue?style=flat&logo=django&logoSize=auto">
+  <picture>
+ <img src="https://raw.githubusercontent.com/vbsilva-cs/design-profissional/b05214930b3aaf30af3e886f253b1f2e6028fa9d/-%20Django%20%20-%20blue.svg?token=BVOQEGLOUHQSY7JATVL2BXTISZTKI">
 </picture>
+
 
 # Enfoque
   Além das tecnologias busco o desenvolvimento pessoal e profissional. Esses aspectos são de suma importância para a carreira e para a vida, não se esquecendo de princípios fundamentais como éticos, de inclusão e sustentabilide.
