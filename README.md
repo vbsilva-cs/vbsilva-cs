@@ -11,15 +11,15 @@
   Como iniciante, ainda tenho um caminho para percorrer para ser considerado um Dev de fato. O enfoque é seguir o plano de ensino proposto e o aprendizado das tecnologias Python, SQL e Django.
 
   <picture>
- <img src="https://raw.githubusercontent.com/vbsilva-cs/design-profissional/b05214930b3aaf30af3e886f253b1f2e6028fa9d/-Python%20-%20blue.svg?token=BVOQEGLZV5EHYB5SL76W45LISZT36">
+ <img src="https://github.com/vbsilva-cs/design-profissional/blob/main/-Python%20-%20blue.svg">
 </picture>
 
   <picture>
- <img src="https://raw.githubusercontent.com/vbsilva-cs/design-profissional/b05214930b3aaf30af3e886f253b1f2e6028fa9d/-%20MySQL%20-%20blue.svg?token=BVOQEGOB3V5GGUNWZRWPXV3ISZTKI">
+ <img src="https://github.com/vbsilva-cs/design-profissional/blob/main/-%20MySQL%20-%20blue.svg">
 </picture>
 
   <picture>
- <img src="https://raw.githubusercontent.com/vbsilva-cs/design-profissional/b05214930b3aaf30af3e886f253b1f2e6028fa9d/-%20Django%20%20-%20blue.svg?token=BVOQEGLOUHQSY7JATVL2BXTISZTKI">
+ <img src="https://github.com/vbsilva-cs/design-profissional/blob/main/-%20Django%20%20-%20blue.svg">
 </picture>
 
 
