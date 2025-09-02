@@ -1,5 +1,5 @@
 <picture>
- <img src="https://github.com/vbsilva-cs/design-profissional/blob/main/Logo_Cruzeiro%20do%20sul%20virtual_editado_7.jpg?raw=true">
+ <img src="https://github.com/vbsilva-cs/hello-world/blob/main/Logo_Cruzeiro%20do%20sul%20virtual_editado_7.jpg?raw=true">
 </picture>
 <!-- Ajustar banner -->
 
@@ -11,15 +11,15 @@
   Como iniciante, ainda tenho um caminho para percorrer para ser considerado um Dev de fato. O enfoque é seguir o plano de ensino proposto e o aprendizado das tecnologias Python, SQL e Django.
 
   <picture>
- <img src="https://github.com/vbsilva-cs/design-profissional/blob/main/-Python%20-%20blue.svg">
+ <img src="https://github.com/vbsilva-cs/hello-world/blob/main/-Python%20-%20blue.svg">
 </picture>
 
   <picture>
- <img src="https://github.com/vbsilva-cs/design-profissional/blob/main/-%20MySQL%20-%20blue.svg">
+ <img src="https://github.com/vbsilva-cs/hello-world/blob/main/-%20MySQL%20-%20blue.svg">
 </picture>
 
   <picture>
- <img src="https://github.com/vbsilva-cs/design-profissional/blob/main/-%20Django%20%20-%20blue.svg">
+ <img src="https://github.com/vbsilva-cs/hello-world/blob/main/-%20Django%20%20-%20blue.svg">
 </picture>
 
 
