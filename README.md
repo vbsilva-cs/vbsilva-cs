@@ -24,7 +24,7 @@
 
 
 # Enfoque
-  Além das tecnologias busco o desenvolvimento pessoal e profissional. Esses aspectos são de suma importância para a carreira e para a vida, além dos princípios fundamentais como éticos, de inclusão e sustentabilide.
+  Além das tecnologias busco o desenvolvimento pessoal e profissional. Esses aspectos são de suma importância para a carreira e para a vida, além dos princípios fundamentais como éticos, de inclusão e sustentabilidade.
     
 
 <!--
